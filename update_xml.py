@@ -67,34 +67,4 @@ def update_xml(stock_file, price_file, xml_file):
             if not price_info.empty:
                 base_price = int(price_info['Price'].values[0])
                 discount_price = int(price_info['Discount Price'].values[0])
-                offer.find('base_price').text = str(base_price)
-                offer.find('discount_price').text = str(discount_price)
-                updated_articles.add(article)
-
-    # Сохранение обновленного XML файла
-    try:
-        tree.write(xml_file, encoding="UTF-8", xml_declaration=True)
-        print("Файл XML успешно обновлен.")
-        if price_data is not None:
-            print(f"Обновлено цен для {len(updated_articles)} уникальных артикулов.")
-    except Exception as e:
-        print(f"Ошибка при сохранении XML файла: {e}")
-
-# Отладка для отображения всех файлов
-print("Доступные файлы:", os.listdir('.'))
-
-# Определение нужных файлов
-stock_file = find_file_with_word('2024', '.xlsx')
-price_file = 'цены.xlsm'
-xml_file = 'intertop.xml'
-
-# Отладочные сообщения для проверки
-print(f"Файл запасов: {stock_file}")
-print(f"Файл цен: {price_file}")
-print(f"XML файл: {xml_file}")
-
-# Запуск обновления XML, если все файлы найдены
-if stock_file and os.path.exists(xml_file):
-    update_xml(stock_file, price_file, xml_file)
-else:
-    print("Не все необходимые файлы найдены.")
+                offer.find
