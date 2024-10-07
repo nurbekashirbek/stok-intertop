@@ -23,7 +23,6 @@ def update_xml(stock_file, price_file, xml_file):
         print("Файл с запасами не содержит нужных колонок.")
         return
     
-    # Отладка: вывод названий колонок в файле с ценами
     print("Названия колонок в файле цен:", price_data.columns)
 
     if 'Generik' not in price_data.columns or 'Price' not in price_data.columns or 'Discount Price' not in price_data.columns:
@@ -38,19 +37,19 @@ def update_xml(stock_file, price_file, xml_file):
         print(f"Ошибка при парсинге XML файла: {e}")
         return
 
+    # Счетчики для обновлений
+    updated_price_count = 0
+
     # Обновление данных в XML
     for offer in root.findall('.//offer'):
         barcode = str(offer.find('barcode').text).strip()
-        print(f"Проверка штрихкода: {barcode}")
         stock_info = stock_data[stock_data['EAN/UPC'].astype(str).str.strip() == barcode]
         
         if not stock_info.empty:
             quantity = int(stock_info['Stock'].values[0])
             offer.find('quantity').text = str(quantity)
-            print(f"Обновление количества для штрихкода {barcode}: {quantity}")
         else:
             offer.find('quantity').text = '0' 
-            print(f"Штрихкод {barcode} не найден, устанавливаем количество 0")
 
         # Обновление цены
         article = offer.find('article').text
@@ -60,11 +59,14 @@ def update_xml(stock_file, price_file, xml_file):
             discount_price = int(price_info['Discount Price'].values[0])
             offer.find('base_price').text = str(base_price)
             offer.find('discount_price').text = str(discount_price)
+            updated_price_count += 1
+            print(f"Цены обновлены для артикула {article}: базовая цена = {base_price}, акционная цена = {discount_price}")
 
     # Сохранение обновленного XML файла
     try:
         tree.write(xml_file, encoding="UTF-8", xml_declaration=True)
         print("Файл XML успешно обновлен.")
+        print(f"Обновлено цен для {updated_price_count} товаров.")
     except Exception as e:
         print(f"Ошибка при сохранении XML файла: {e}")
 
