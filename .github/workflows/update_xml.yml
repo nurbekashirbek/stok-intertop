@@ -12,10 +12,10 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v3  # Обновлено на v3 для поддержки последних функций
+      uses: actions/checkout@v2
 
     - name: Set up Python
-      uses: actions/setup-python@v4  # Обновлено на v4 для поддержки последних функций
+      uses: actions/setup-python@v2
       with:
         python-version: '3.x'
 
@@ -34,13 +34,8 @@ jobs:
         price_file: "$(ls | grep 'цены' | grep '.xlsm' || true)"
         xml_file: "intertop.xml"
 
-    - name: Check for changes
-      id: git_diff
-      run: |
-        git diff --exit-code intertop.xml || echo "Изменения найдены"
-
     - name: Commit changes
-      if: steps.git_diff.outcome != 'success'
+      if: success()
       run: |
         git config --global user.name "your-username"
         git config --global user.email "your-email@example.com"
@@ -48,13 +43,4 @@ jobs:
         git commit -m "Automatically update XML file"
         git push
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-    - name: Clean up files
-      run: |
-        echo "Удаление временных файлов..."
-        rm -f *.xlsx || echo "Файлы запасов не найдены для удаления"
-        rm -f *.xlsm || echo "Файл цен не найден для удаления"
-        echo "Файлы после удаления:"
-        ls -1
-
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }
