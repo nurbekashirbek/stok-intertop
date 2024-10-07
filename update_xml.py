@@ -22,6 +22,10 @@ def update_xml(stock_file, price_file, xml_file):
     if 'EAN/UPC' not in stock_data.columns or 'Stock' not in stock_data.columns:
         print("Файл с запасами не содержит нужных колонок.")
         return
+    
+    # Отладка: вывод названий колонок в файле с ценами
+    print("Названия колонок в файле цен:", price_data.columns)
+
     if 'Generik' not in price_data.columns or 'Price' not in price_data.columns or 'Discount Price' not in price_data.columns:
         print("Файл с ценами не содержит нужных колонок.")
         return
@@ -36,14 +40,19 @@ def update_xml(stock_file, price_file, xml_file):
 
     # Обновление данных в XML
     for offer in root.findall('.//offer'):
-        barcode = offer.find('barcode').text
-        stock_info = stock_data[stock_data['EAN/UPC'] == barcode]
+        barcode = str(offer.find('barcode').text).strip()
+        print(f"Проверка штрихкода: {barcode}")
+        stock_info = stock_data[stock_data['EAN/UPC'].astype(str).str.strip() == barcode]
+        
         if not stock_info.empty:
             quantity = int(stock_info['Stock'].values[0])
             offer.find('quantity').text = str(quantity)
+            print(f"Обновление количества для штрихкода {barcode}: {quantity}")
         else:
             offer.find('quantity').text = '0' 
+            print(f"Штрихкод {barcode} не найден, устанавливаем количество 0")
 
+        # Обновление цены
         article = offer.find('article').text
         price_info = price_data[price_data['Generik'] == article]
         if not price_info.empty:
