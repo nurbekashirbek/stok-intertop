@@ -53,8 +53,8 @@ def update_xml(stock_file, price_file, xml_file):
             offer.find('quantity').text = '0' 
 
         # Обновление цен
-        article = offer.find('article').text
-        price_info = price_data[price_data['Generik'] == article]
+        article = str(offer.find('article').text).strip()
+        price_info = price_data[price_data['Generik'].astype(str).str.strip() == article]
         
         if not price_info.empty:
             base_price = int(price_info['Price'].values[0])
@@ -63,6 +63,8 @@ def update_xml(stock_file, price_file, xml_file):
             offer.find('discount_price').text = str(discount_price)
             updated_price_count += 1
             print(f"Цены обновлены для артикула {article}: базовая цена = {base_price}, акционная цена = {discount_price}")
+        else:
+            print(f"Артикул {article} не найден в файле цен.")
 
     # Сохранение обновленного XML файла
     try:
