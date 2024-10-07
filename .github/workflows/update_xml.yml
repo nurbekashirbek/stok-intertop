@@ -24,11 +24,17 @@ jobs:
         python -m pip install --upgrade pip
         pip install pandas lxml openpyxl
 
+    - name: Display files before script
+      run: |
+        echo "Файлы перед выполнением скрипта:"
+        ls -1
+
     - name: Run update script
       run: |
-        echo "Доступные файлы:" 
-        ls -1
+        echo "Запуск скрипта обновления XML..."
         python update_xml.py
+        echo "Содержимое после выполнения скрипта:"
+        ls -1
       env:
         stock_file: "$(ls | grep '2024' | grep '.xlsx' || true)"
         price_file: "$(ls | grep 'цены' | grep '.xlsm' || true)"
@@ -52,5 +58,8 @@ jobs:
 
     - name: Clean up files
       run: |
-        rm -f *.xlsx *.xlsm
-        echo "Временные файлы удалены."
+        echo "Удаление временных файлов..."
+        rm -f *.xlsx || echo "Файлы запасов не найдены для удаления"
+        rm -f *.xlsm || echo "Файл цен не найден для удаления"
+        echo "Файлы после удаления:"
+        ls -1
