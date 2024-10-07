@@ -3,9 +3,9 @@ from lxml import etree
 import os
 
 def find_file_with_word(word, extension):
-    """Находит первый файл в текущем каталоге, содержащий указанное слово и имеющий указанный расширение."""
+    """Находит первый файл в текущем каталоге, содержащий указанное слово и имеющий указанное расширение (без учета регистра)."""
     for file in os.listdir('.'):
-        if word in file and file.endswith(extension):
+        if word in file and file.lower().endswith(extension.lower()):
             return file
     return None
 
@@ -58,6 +58,9 @@ def update_xml(stock_file, price_file, xml_file):
         print("Файл XML успешно обновлен.")
     except Exception as e:
         print(f"Ошибка при сохранении XML файла: {e}")
+
+# Отладка для отображения всех файлов
+print("Доступные файлы:", os.listdir('.'))
 
 # Определение нужных файлов
 stock_file = find_file_with_word('2024', '.xlsx')
