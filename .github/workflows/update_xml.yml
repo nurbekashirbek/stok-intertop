@@ -1,0 +1,34 @@
+name: Update XML File
+
+on:
+  push:
+    paths:
+      - '*.xlsx'
+      - '*.xlsm'
+      - '*.xml'
+
+jobs:
+  update_xml:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'
+
+      - name: Install dependencies
+        run: |
+          pip install pandas lxml openpyxl
+
+      - name: Run update script
+        run: |
+          python update_xml.py
+
+      - name: Commit changes
+        run: |
+          git config --global user.email "nurbek.a2003@gmail.com"
+          git config --global user.name "Nurbek"
+          git add example.xml
+          git commit -m "Automatically update XML file" || echo "No changes to commit"
+          git push
