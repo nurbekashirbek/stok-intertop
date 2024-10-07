@@ -37,11 +37,12 @@ def update_xml(stock_file, price_file, xml_file):
         print(f"Ошибка при парсинге XML файла: {e}")
         return
 
-    # Счетчики для обновлений
+    # Счетчик для обновленных цен
     updated_price_count = 0
 
     # Обновление данных в XML
     for offer in root.findall('.//offer'):
+        # Обновление количества
         barcode = str(offer.find('barcode').text).strip()
         stock_info = stock_data[stock_data['EAN/UPC'].astype(str).str.strip() == barcode]
         
@@ -51,9 +52,10 @@ def update_xml(stock_file, price_file, xml_file):
         else:
             offer.find('quantity').text = '0' 
 
-        # Обновление цены
+        # Обновление цен
         article = offer.find('article').text
         price_info = price_data[price_data['Generik'] == article]
+        
         if not price_info.empty:
             base_price = int(price_info['Price'].values[0])
             discount_price = int(price_info['Discount Price'].values[0])
