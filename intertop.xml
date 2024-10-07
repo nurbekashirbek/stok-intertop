@@ -7,17 +7,17 @@
       <sku_size>43</sku_size>
       <sku>mp1843591</sku>
       <quantity>0</quantity>
-      <base_price>88000</base_price>
-      <discount_price>88000</discount_price>
+      <base_price>55000</base_price>
+      <discount_price>20</discount_price>
     </offer>
     <offer>
       <article>101406777</article>
       <barcode>4056561029581</barcode>
       <sku_size>44</sku_size>
       <sku>mp1843592</sku>
-      <quantity>877</quantity>
-      <base_price>88000</base_price>
-      <discount_price>88000</discount_price>
+      <quantity>111</quantity>
+      <base_price>55000</base_price>
+      <discount_price>20</discount_price>
     </offer>
     <offer>
       <article>101406777</article>
@@ -25,8 +25,8 @@
       <sku_size>44.5</sku_size>
       <sku>mp1843593</sku>
       <quantity>4</quantity>
-      <base_price>88000</base_price>
-      <discount_price>88000</discount_price>
+      <base_price>55000</base_price>
+      <discount_price>20</discount_price>
     </offer>
     <offer>
       <article>101406777</article>
@@ -34,8 +34,8 @@
       <sku_size>45</sku_size>
       <sku>mp1843594</sku>
       <quantity>0</quantity>
-      <base_price>88000</base_price>
-      <discount_price>88000</discount_price>
+      <base_price>55000</base_price>
+      <discount_price>20</discount_price>
     </offer>
     <offer>
       <article>101406777</article>
@@ -43,8 +43,8 @@
       <sku_size>42.5</sku_size>
       <sku>mp1843595</sku>
       <quantity>0</quantity>
-      <base_price>88000</base_price>
-      <discount_price>88000</discount_price>
+      <base_price>55000</base_price>
+      <discount_price>20</discount_price>
     </offer>
     <offer>
       <article>101406777</article>
@@ -52,8 +52,8 @@
       <sku_size>42</sku_size>
       <sku>mp1843596</sku>
       <quantity>0</quantity>
-      <base_price>88000</base_price>
-      <discount_price>88000</discount_price>
+      <base_price>55000</base_price>
+      <discount_price>20</discount_price>
     </offer>
     <offer>
       <article>101406777</article>
@@ -61,8 +61,8 @@
       <sku_size>38.5</sku_size>
       <sku>mp1843597</sku>
       <quantity>0</quantity>
-      <base_price>88000</base_price>
-      <discount_price>88000</discount_price>
+      <base_price>55000</base_price>
+      <discount_price>20</discount_price>
     </offer>
     <offer>
       <article>101427909</article>
