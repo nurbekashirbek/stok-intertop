@@ -24,29 +24,18 @@ jobs:
         python -m pip install --upgrade pip
         pip install pandas lxml openpyxl
 
-    - name: Display files before script
-      run: |
-        echo "Файлы перед выполнением скрипта:"
-        ls -1
-
     - name: Run update script
       run: |
-        echo "Запуск скрипта обновления XML..."
-        python update_xml.py
-        echo "Содержимое после выполнения скрипта:"
+        echo "Доступные файлы:" 
         ls -1
+        python update_xml.py
       env:
         stock_file: "$(ls | grep '2024' | grep '.xlsx' || true)"
         price_file: "$(ls | grep 'цены' | grep '.xlsm' || true)"
         xml_file: "intertop.xml"
 
-    - name: Check for changes
-      id: git_diff
-      run: |
-        git diff --exit-code intertop.xml || echo "Изменения найдены"
-
     - name: Commit changes
-      if: steps.git_diff.outputs.exit-code != '0'
+      if: success()
       run: |
         git config --global user.name "your-username"
         git config --global user.email "your-email@example.com"
@@ -55,11 +44,3 @@ jobs:
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-    - name: Clean up files
-      run: |
-        echo "Удаление временных файлов..."
-        rm -f *.xlsx || echo "Файлы запасов не найдены для удаления"
-        rm -f *.xlsm || echo "Файл цен не найден для удаления"
-        echo "Файлы после удаления:"
-        ls -1
