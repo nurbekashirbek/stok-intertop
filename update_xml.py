@@ -37,8 +37,8 @@ def update_xml(stock_file, price_file, xml_file):
         print(f"Ошибка при парсинге XML файла: {e}")
         return
 
-    # Счетчик для обновленных цен
-    updated_price_count = 0
+    # Множество для уникальных артикулов
+    updated_articles = set()
 
     # Обновление данных в XML
     for offer in root.findall('.//offer'):
@@ -61,16 +61,13 @@ def update_xml(stock_file, price_file, xml_file):
             discount_price = int(price_info['Discount Price'].values[0])
             offer.find('base_price').text = str(base_price)
             offer.find('discount_price').text = str(discount_price)
-            updated_price_count += 1
-            print(f"Цены обновлены для артикула {article}: базовая цена = {base_price}, акционная цена = {discount_price}")
-        else:
-            print(f"Артикул {article} не найден в файле цен.")
+            updated_articles.add(article)
 
     # Сохранение обновленного XML файла
     try:
         tree.write(xml_file, encoding="UTF-8", xml_declaration=True)
         print("Файл XML успешно обновлен.")
-        print(f"Обновлено цен для {updated_price_count} товаров.")
+        print(f"Обновлено цен для {len(updated_articles)} уникальных артикулов.")
     except Exception as e:
         print(f"Ошибка при сохранении XML файла: {e}")
 
