@@ -12,10 +12,10 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3  # Обновлено на v3 для поддержки последних функций
 
     - name: Set up Python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v4  # Обновлено на v4 для поддержки последних функций
       with:
         python-version: '3.x'
 
@@ -42,8 +42,8 @@ jobs:
     - name: Commit changes
       if: steps.git_diff.outcome != 'success'
       run: |
-        git config --global user.name "Nurbek"
-        git config --global user.email "nurbek.a2003@gmail.com"
+        git config --global user.name "your-username"
+        git config --global user.email "your-email@example.com"
         git add intertop.xml
         git commit -m "Automatically update XML file"
         git push
@@ -57,3 +57,4 @@ jobs:
         rm -f *.xlsm || echo "Файл цен не найден для удаления"
         echo "Файлы после удаления:"
         ls -1
+
