@@ -34,11 +34,16 @@ jobs:
         price_file: "$(ls | grep 'цены' | grep '.xlsm' || true)"
         xml_file: "intertop.xml"
 
-    - name: Commit changes
-      if: success()
+    - name: Check for changes
+      id: git_diff
       run: |
-        git config --global user.name "your-username"
-        git config --global user.email "your-email@example.com"
+        git diff --exit-code intertop.xml || echo "Изменения найдены"
+
+    - name: Commit changes
+      if: steps.git_diff.outcome != 'success'
+      run: |
+        git config --global user.name "Nurbek"
+        git config --global user.email "nurbek.a2003@gmail.com"
         git add intertop.xml
         git commit -m "Automatically update XML file"
         git push
