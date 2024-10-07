@@ -37,7 +37,7 @@ def update_xml(stock_file, price_file, xml_file):
 
 stock_file = find_file_with_word('2024', '.xlsx')
 price_file = 'цены.xlsm'
-xml_file = 'example.xml'
+xml_file = 'intertop.xml'
 
 if stock_file and os.path.exists(price_file) and os.path.exists(xml_file):
     update_xml(stock_file, price_file, xml_file)
