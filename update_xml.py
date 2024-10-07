@@ -64,6 +64,11 @@ stock_file = find_file_with_word('2024', '.xlsx')
 price_file = 'цены.xlsm'
 xml_file = 'intertop.xml'
 
+# Отладочные сообщения для проверки
+print(f"Файл запасов: {stock_file}")
+print(f"Файл цен: {price_file}")
+print(f"XML файл: {xml_file}")
+
 # Запуск обновления XML, если все файлы найдены
 if stock_file and os.path.exists(price_file) and os.path.exists(xml_file):
     update_xml(stock_file, price_file, xml_file)
