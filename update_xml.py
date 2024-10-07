@@ -10,12 +10,31 @@ def find_file_with_word(word, extension):
     return None
 
 def update_xml(stock_file, price_file, xml_file):
-    stock_data = pd.read_excel(stock_file)
-    price_data = pd.read_excel(price_file)
+    # Загрузка данных из файлов
+    try:
+        stock_data = pd.read_excel(stock_file)
+        price_data = pd.read_excel(price_file)
+    except Exception as e:
+        print(f"Ошибка при загрузке Excel файлов: {e}")
+        return
 
-    tree = etree.parse(xml_file)
-    root = tree.getroot()
+    # Проверка, что нужные колонки существуют
+    if 'EAN/UPC' not in stock_data.columns or 'Stock' not in stock_data.columns:
+        print("Файл с запасами не содержит нужных колонок.")
+        return
+    if 'Generik' not in price_data.columns or 'Price' not in price_data.columns or 'Discount Price' not in price_data.columns:
+        print("Файл с ценами не содержит нужных колонок.")
+        return
 
+    # Парсинг XML файла
+    try:
+        tree = etree.parse(xml_file)
+        root = tree.getroot()
+    except Exception as e:
+        print(f"Ошибка при парсинге XML файла: {e}")
+        return
+
+    # Обновление данных в XML
     for offer in root.findall('.//offer'):
         barcode = offer.find('barcode').text
         stock_info = stock_data[stock_data['EAN/UPC'] == barcode]
@@ -33,12 +52,19 @@ def update_xml(stock_file, price_file, xml_file):
             offer.find('base_price').text = str(base_price)
             offer.find('discount_price').text = str(discount_price)
 
-    tree.write(xml_file, encoding="UTF-8", xml_declaration=True)
+    # Сохранение обновленного XML файла
+    try:
+        tree.write(xml_file, encoding="UTF-8", xml_declaration=True)
+        print("Файл XML успешно обновлен.")
+    except Exception as e:
+        print(f"Ошибка при сохранении XML файла: {e}")
 
+# Определение нужных файлов
 stock_file = find_file_with_word('2024', '.xlsx')
 price_file = 'цены.xlsm'
 xml_file = 'intertop.xml'
 
+# Запуск обновления XML, если все файлы найдены
 if stock_file and os.path.exists(price_file) and os.path.exists(xml_file):
     update_xml(stock_file, price_file, xml_file)
 else:
