@@ -24,47 +24,23 @@ jobs:
         python -m pip install --upgrade pip
         pip install pandas lxml openpyxl
 
-    - name: Show working directory content
-      run: |
-        echo "Содержимое рабочей директории:"
-        ls -R
-
-    - name: Find stock files
-      id: find_files
-      run: |
-        STOCK_FILES=$(find . -type f -iregex '.*stock.*\\.\\(xlsx\\|XLSX\\)$' | head -n 2 | tr '\\n' ' ')
-        if [ -z "$STOCK_FILES" ]; then
-          echo "Error: No stock files found."
-          exit 1
-        fi
-        echo "STOCK_FILES=$STOCK_FILES" >> $GITHUB_ENV
-
-    - name: Find price file
-      id: find_price
-      run: |
-        PRICE_FILE=$(find . -type f -iregex '.*цены.*\\.\\(xlsm\\|XLSM\\)$' || true)
-        if [ -z "$PRICE_FILE" ]; then
-          echo "Warning: Price file not found. Continuing without it."
-        fi
-        echo "PRICE_FILE=$PRICE_FILE" >> $GITHUB_ENV
-
     - name: Run update script
       run: |
-        echo "Найденные файлы запасов: $STOCK_FILES"
-        echo "Файл цен: $PRICE_FILE"
+        echo "Доступные файлы:" 
+        ls -1
         python update_xml.py
       env:
-        STOCK_FILES: ${{ env.STOCK_FILES }}
-        PRICE_FILE: ${{ env.PRICE_FILE }}
-        XML_FILE: "intertop.xml"
+        stock_file: "$(ls | grep '2024' | grep '.xlsx' || true)"
+        price_file: "$(ls | grep 'цены' | grep '.xlsm' || true)"
+        xml_file: "intertop.xml"
 
     - name: Commit changes
+      if: success()
       run: |
-        if [ -n "$(git status --porcelain | grep 'intertop.xml')" ]; then
-          git config --global user.name "nurbekashirbek"
-          git config --global user.email "nurbek.a2003@gmail.com"
-          git add intertop.xml
-          git commit -m "Automatically update XML file"
-          git push
-        else
-          echo "No changes detected in intertop.xml. Skipping commit."
+        git config --global user.name "nurbekashirbek"
+        git config --global user.email "nurbek.a2003@gmail.com"
+        git add intertop.xml
+        git commit -m "Automatically update XML file"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
