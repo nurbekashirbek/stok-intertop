@@ -60,7 +60,7 @@
       <barcode>4056561029468</barcode>
       <sku_size>38.5</sku_size>
       <sku>mp1843597</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>37990</base_price>
       <discount_price>37990</discount_price>
     </offer>
@@ -150,7 +150,7 @@
       <barcode>4066758309365</barcode>
       <sku_size>45</sku_size>
       <sku>mp1843607</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>27990</base_price>
       <discount_price>19990</discount_price>
     </offer>
@@ -195,7 +195,7 @@
       <barcode>4066758310538</barcode>
       <sku_size>44.5</sku_size>
       <sku>mp1843612</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>27990</base_price>
       <discount_price>19990</discount_price>
     </offer>
@@ -276,7 +276,7 @@
       <barcode>4066756551230</barcode>
       <sku_size>42.5</sku_size>
       <sku>mp1843621</sku>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
       <base_price>29990</base_price>
       <discount_price>22990</discount_price>
     </offer>
@@ -924,7 +924,7 @@
       <barcode>4065418338981</barcode>
       <sku_size>37.5</sku_size>
       <sku>mp1847003</sku>
-      <quantity>4</quantity>
+      <quantity>0</quantity>
       <base_price>39990</base_price>
       <discount_price>39990</discount_price>
     </offer>
@@ -933,7 +933,7 @@
       <barcode>4065418338974</barcode>
       <sku_size>37</sku_size>
       <sku>mp1847004</sku>
-      <quantity>6</quantity>
+      <quantity>0</quantity>
       <base_price>39990</base_price>
       <discount_price>39990</discount_price>
     </offer>
@@ -942,7 +942,7 @@
       <barcode>4065418342650</barcode>
       <sku_size>36</sku_size>
       <sku>mp1847005</sku>
-      <quantity>5</quantity>
+      <quantity>0</quantity>
       <base_price>39990</base_price>
       <discount_price>39990</discount_price>
     </offer>
@@ -969,7 +969,7 @@
       <barcode>4065418342841</barcode>
       <sku_size>37</sku_size>
       <sku>mp1847008</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>39990</base_price>
       <discount_price>39990</discount_price>
     </offer>
@@ -1266,7 +1266,7 @@
       <barcode>4066751522730</barcode>
       <sku_size>36</sku_size>
       <sku>mp1847043</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>37990</base_price>
       <discount_price>37990</discount_price>
     </offer>
@@ -1275,7 +1275,7 @@
       <barcode>4066751522785</barcode>
       <sku_size>37</sku_size>
       <sku>mp1847044</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>37990</base_price>
       <discount_price>37990</discount_price>
     </offer>
@@ -1284,7 +1284,7 @@
       <barcode>4066751522792</barcode>
       <sku_size>37.5</sku_size>
       <sku>mp1847045</sku>
-      <quantity>2</quantity>
+      <quantity>0</quantity>
       <base_price>37990</base_price>
       <discount_price>37990</discount_price>
     </offer>
@@ -1302,7 +1302,7 @@
       <barcode>4066751522716</barcode>
       <sku_size>38.5</sku_size>
       <sku>mp1847047</sku>
-      <quantity>3</quantity>
+      <quantity>0</quantity>
       <base_price>37990</base_price>
       <discount_price>37990</discount_price>
     </offer>
@@ -1311,7 +1311,7 @@
       <barcode>4066751522754</barcode>
       <sku_size>39</sku_size>
       <sku>mp1847048</sku>
-      <quantity>2</quantity>
+      <quantity>0</quantity>
       <base_price>37990</base_price>
       <discount_price>37990</discount_price>
     </offer>
@@ -1320,7 +1320,7 @@
       <barcode>4066751522761</barcode>
       <sku_size>40</sku_size>
       <sku>mp1847049</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>37990</base_price>
       <discount_price>37990</discount_price>
     </offer>
@@ -1329,7 +1329,7 @@
       <barcode>4065426435757</barcode>
       <sku_size>36</sku_size>
       <sku>mp1847050</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>39990</base_price>
       <discount_price>39990</discount_price>
     </offer>
@@ -1365,7 +1365,7 @@
       <barcode>4065426435719</barcode>
       <sku_size>37.5</sku_size>
       <sku>mp1847054</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>39990</base_price>
       <discount_price>39990</discount_price>
     </offer>
@@ -1383,7 +1383,7 @@
       <barcode>4065426435740</barcode>
       <sku_size>38.5</sku_size>
       <sku>mp1847056</sku>
-      <quantity>2</quantity>
+      <quantity>0</quantity>
       <base_price>39990</base_price>
       <discount_price>39990</discount_price>
     </offer>
@@ -1545,7 +1545,7 @@
       <barcode>4066758313638</barcode>
       <sku_size>38</sku_size>
       <sku>mp1847661</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>27990</base_price>
       <discount_price>19990</discount_price>
     </offer>
@@ -1581,7 +1581,7 @@
       <barcode>4066755216680</barcode>
       <sku_size>36</sku_size>
       <sku>mp1847665</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>42990</base_price>
       <discount_price>29990</discount_price>
     </offer>
@@ -1590,7 +1590,7 @@
       <barcode>4066755216703</barcode>
       <sku_size>37</sku_size>
       <sku>mp1847666</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>42990</base_price>
       <discount_price>29990</discount_price>
     </offer>
@@ -1914,7 +1914,7 @@
       <barcode>1200143029848</barcode>
       <sku_size>37.5</sku_size>
       <sku>mp1847702</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>64990</base_price>
       <discount_price>39990</discount_price>
     </offer>
@@ -1950,7 +1950,7 @@
       <barcode>1200143278833</barcode>
       <sku_size>39</sku_size>
       <sku>mp1847706</sku>
-      <quantity>2</quantity>
+      <quantity>0</quantity>
       <base_price>64990</base_price>
       <discount_price>39990</discount_price>
     </offer>
@@ -1959,7 +1959,7 @@
       <barcode>1200143278826</barcode>
       <sku_size>38.5</sku_size>
       <sku>mp1847707</sku>
-      <quantity>2</quantity>
+      <quantity>0</quantity>
       <base_price>64990</base_price>
       <discount_price>39990</discount_price>
     </offer>
@@ -1968,7 +1968,7 @@
       <barcode>1200143278796</barcode>
       <sku_size>37</sku_size>
       <sku>mp1847708</sku>
-      <quantity>2</quantity>
+      <quantity>0</quantity>
       <base_price>64990</base_price>
       <discount_price>39990</discount_price>
     </offer>
@@ -1977,7 +1977,7 @@
       <barcode>1200143278802</barcode>
       <sku_size>37.5</sku_size>
       <sku>mp1847709</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>64990</base_price>
       <discount_price>39990</discount_price>
     </offer>
@@ -1986,7 +1986,7 @@
       <barcode>1200143278819</barcode>
       <sku_size>38</sku_size>
       <sku>mp1847710</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>64990</base_price>
       <discount_price>39990</discount_price>
     </offer>
@@ -2013,7 +2013,7 @@
       <barcode>1200143106686</barcode>
       <sku_size>37.5</sku_size>
       <sku>mp1847713</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>64990</base_price>
       <discount_price>39990</discount_price>
     </offer>
@@ -2328,7 +2328,7 @@
       <barcode>1200143038581</barcode>
       <sku_size>36</sku_size>
       <sku>mp1854861</sku>
-      <quantity>2</quantity>
+      <quantity>0</quantity>
       <base_price>64990</base_price>
       <discount_price>39990</discount_price>
     </offer>
@@ -2337,7 +2337,7 @@
       <barcode>1200143038611</barcode>
       <sku_size>37</sku_size>
       <sku>mp1854862</sku>
-      <quantity>3</quantity>
+      <quantity>0</quantity>
       <base_price>64990</base_price>
       <discount_price>39990</discount_price>
     </offer>
@@ -2355,7 +2355,7 @@
       <barcode>1200143038673</barcode>
       <sku_size>38</sku_size>
       <sku>mp1854864</sku>
-      <quantity>3</quantity>
+      <quantity>0</quantity>
       <base_price>64990</base_price>
       <discount_price>39990</discount_price>
     </offer>
@@ -2364,7 +2364,7 @@
       <barcode>1200143038703</barcode>
       <sku_size>38.5</sku_size>
       <sku>mp1854865</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>64990</base_price>
       <discount_price>39990</discount_price>
     </offer>
@@ -2373,7 +2373,7 @@
       <barcode>1200143038734</barcode>
       <sku_size>39</sku_size>
       <sku>mp1854866</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>64990</base_price>
       <discount_price>39990</discount_price>
     </offer>
@@ -2382,7 +2382,7 @@
       <barcode>1200143075494</barcode>
       <sku_size>36</sku_size>
       <sku>mp1854867</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>49990</base_price>
       <discount_price>34990</discount_price>
     </offer>
@@ -2418,7 +2418,7 @@
       <barcode>1200143075616</barcode>
       <sku_size>38.5</sku_size>
       <sku>mp1854871</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>49990</base_price>
       <discount_price>34990</discount_price>
     </offer>
@@ -2445,7 +2445,7 @@
       <barcode>1200143015438</barcode>
       <sku_size>37</sku_size>
       <sku>mp1854874</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>39990</base_price>
       <discount_price>19990</discount_price>
     </offer>
@@ -2715,7 +2715,7 @@
       <barcode>1200143235102</barcode>
       <sku_size>37</sku_size>
       <sku>mp1860410</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>44990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -2724,7 +2724,7 @@
       <barcode>1200143235140</barcode>
       <sku_size>38</sku_size>
       <sku>mp1860411</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>44990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -2733,7 +2733,7 @@
       <barcode>1200143242483</barcode>
       <sku_size>36</sku_size>
       <sku>mp1860412</sku>
-      <quantity>2</quantity>
+      <quantity>0</quantity>
       <base_price>44990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -2769,7 +2769,7 @@
       <barcode>1200143242582</barcode>
       <sku_size>39</sku_size>
       <sku>mp1860416</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>44990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -3057,7 +3057,7 @@
       <barcode>1200143016749</barcode>
       <sku_size>39</sku_size>
       <sku>mp1860451</sku>
-      <quantity>2</quantity>
+      <quantity>0</quantity>
       <base_price>37990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -3291,7 +3291,7 @@
       <barcode>1200143098561</barcode>
       <sku_size>36</sku_size>
       <sku>mp1860477</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>72990</base_price>
       <discount_price>44990</discount_price>
     </offer>
@@ -3453,7 +3453,7 @@
       <barcode>1200143206027</barcode>
       <sku_size>38</sku_size>
       <sku>mp1860495</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>52990</base_price>
       <discount_price>39990</discount_price>
     </offer>
@@ -3894,7 +3894,7 @@
       <barcode>4065432300131</barcode>
       <sku_size>XS</sku_size>
       <sku>mp1869461</sku>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <base_price>29990</base_price>
       <discount_price>19990</discount_price>
     </offer>
@@ -3984,7 +3984,7 @@
       <barcode>4065423465306</barcode>
       <sku_size>L</sku_size>
       <sku>mp1869471</sku>
-      <quantity>11</quantity>
+      <quantity>9</quantity>
       <base_price>24990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -3993,7 +3993,7 @@
       <barcode>4065423465245</barcode>
       <sku_size>M</sku_size>
       <sku>mp1869472</sku>
-      <quantity>11</quantity>
+      <quantity>10</quantity>
       <base_price>24990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -4011,7 +4011,7 @@
       <barcode>4065423465269</barcode>
       <sku_size>XS</sku_size>
       <sku>mp1869474</sku>
-      <quantity>2</quantity>
+      <quantity>5</quantity>
       <base_price>24990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -4029,7 +4029,7 @@
       <barcode>4066763362065</barcode>
       <sku_size>S</sku_size>
       <sku>mp1869476</sku>
-      <quantity>2</quantity>
+      <quantity>0</quantity>
       <base_price>32990</base_price>
       <discount_price>19990</discount_price>
     </offer>
@@ -4056,7 +4056,7 @@
       <barcode>4066764794001</barcode>
       <sku_size>M</sku_size>
       <sku>mp1869479</sku>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <base_price>29990</base_price>
       <discount_price>19990</discount_price>
     </offer>
@@ -4065,7 +4065,7 @@
       <barcode>4066764794056</barcode>
       <sku_size>S</sku_size>
       <sku>mp1869480</sku>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <base_price>29990</base_price>
       <discount_price>19990</discount_price>
     </offer>
@@ -4074,7 +4074,7 @@
       <barcode>4066764797699</barcode>
       <sku_size>XS</sku_size>
       <sku>mp1869481</sku>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <base_price>29990</base_price>
       <discount_price>19990</discount_price>
     </offer>
@@ -4209,7 +4209,7 @@
       <barcode>4066751220759</barcode>
       <sku_size>XL</sku_size>
       <sku>mp1869496</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>34990</base_price>
       <discount_price>19990</discount_price>
     </offer>
@@ -4281,7 +4281,7 @@
       <barcode>4066751080582</barcode>
       <sku_size>S</sku_size>
       <sku>mp1869504</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>29990</base_price>
       <discount_price>19990</discount_price>
     </offer>
@@ -4425,7 +4425,7 @@
       <barcode>1200143336946</barcode>
       <sku_size>S</sku_size>
       <sku>mp1869520</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>27990</base_price>
       <discount_price>19990</discount_price>
     </offer>
@@ -4434,7 +4434,7 @@
       <barcode>1200143336977</barcode>
       <sku_size>XL</sku_size>
       <sku>mp1869521</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>27990</base_price>
       <discount_price>19990</discount_price>
     </offer>
@@ -4461,7 +4461,7 @@
       <barcode>1200143298701</barcode>
       <sku_size>M</sku_size>
       <sku>mp1869524</sku>
-      <quantity>7</quantity>
+      <quantity>6</quantity>
       <base_price>34990</base_price>
       <discount_price>34990</discount_price>
     </offer>
@@ -4578,7 +4578,7 @@
       <barcode>4066751250305</barcode>
       <sku_size>2XL</sku_size>
       <sku>mp1869537</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>24990</base_price>
       <discount_price>9990</discount_price>
     </offer>
@@ -4722,7 +4722,7 @@
       <barcode>1200143293515</barcode>
       <sku_size>M</sku_size>
       <sku>mp1869553</sku>
-      <quantity>4</quantity>
+      <quantity>3</quantity>
       <base_price>32990</base_price>
       <discount_price>32990</discount_price>
     </offer>
@@ -4740,7 +4740,7 @@
       <barcode>1200143298572</barcode>
       <sku_size>L</sku_size>
       <sku>mp1869555</sku>
-      <quantity>4</quantity>
+      <quantity>3</quantity>
       <base_price>27990</base_price>
       <discount_price>27990</discount_price>
     </offer>
@@ -4776,7 +4776,7 @@
       <barcode>1200143302057</barcode>
       <sku_size>XL</sku_size>
       <sku>mp1869559</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>27990</base_price>
       <discount_price>17990</discount_price>
     </offer>
@@ -4938,7 +4938,7 @@
       <barcode>1200143312308</barcode>
       <sku_size>S</sku_size>
       <sku>mp1869577</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>29990</base_price>
       <discount_price>18990</discount_price>
     </offer>
@@ -4956,7 +4956,7 @@
       <barcode>1200143318317</barcode>
       <sku_size>M</sku_size>
       <sku>mp1869579</sku>
-      <quantity>5</quantity>
+      <quantity>3</quantity>
       <base_price>24990</base_price>
       <discount_price>9990</discount_price>
     </offer>
@@ -5145,7 +5145,7 @@
       <barcode>4066755172955</barcode>
       <sku_size>44.5</sku_size>
       <sku>mp1921525</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>49990</base_price>
       <discount_price>31990</discount_price>
     </offer>
@@ -5343,7 +5343,7 @@
       <barcode>4066756275457</barcode>
       <sku_size>39</sku_size>
       <sku>mp1921547</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>57590</base_price>
       <discount_price>31990</discount_price>
     </offer>
@@ -5946,7 +5946,7 @@
       <barcode>1200143517772</barcode>
       <sku_size>44</sku_size>
       <sku>mp1921614</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>44990</base_price>
       <discount_price>26990</discount_price>
     </offer>
@@ -5955,7 +5955,7 @@
       <barcode>1200143517789</barcode>
       <sku_size>44.5</sku_size>
       <sku>mp1921615</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>44990</base_price>
       <discount_price>26990</discount_price>
     </offer>
@@ -6144,7 +6144,7 @@
       <barcode>1200143066782</barcode>
       <sku_size>41</sku_size>
       <sku>mp1921636</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>44990</base_price>
       <discount_price>44990</discount_price>
     </offer>
@@ -6450,7 +6450,7 @@
       <barcode>1200143230367</barcode>
       <sku_size>44.5</sku_size>
       <sku>mp1921670</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>66990</base_price>
       <discount_price>66990</discount_price>
     </offer>
@@ -6792,7 +6792,7 @@
       <barcode>4066748668175</barcode>
       <sku_size>44.5</sku_size>
       <sku>mp1921719</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>34990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -6801,7 +6801,7 @@
       <barcode>4066748668151</barcode>
       <sku_size>45</sku_size>
       <sku>mp1921720</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>34990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -6810,7 +6810,7 @@
       <barcode>4066748668182</barcode>
       <sku_size>40.5</sku_size>
       <sku>mp1921721</sku>
-      <quantity>2</quantity>
+      <quantity>0</quantity>
       <base_price>34990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -6864,7 +6864,7 @@
       <barcode>4065419128048</barcode>
       <sku_size>36</sku_size>
       <sku>mp1921727</sku>
-      <quantity>5</quantity>
+      <quantity>4</quantity>
       <base_price>39990</base_price>
       <discount_price>39990</discount_price>
     </offer>
@@ -6981,7 +6981,7 @@
       <barcode>4065422568367</barcode>
       <sku_size>42</sku_size>
       <sku>mp1921740</sku>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
       <base_price>39990</base_price>
       <discount_price>39990</discount_price>
     </offer>
@@ -7116,7 +7116,7 @@
       <barcode>4065432942041</barcode>
       <sku_size>43</sku_size>
       <sku>mp1921756</sku>
-      <quantity>3</quantity>
+      <quantity>0</quantity>
       <base_price>44990</base_price>
       <discount_price>44990</discount_price>
     </offer>
@@ -7125,7 +7125,7 @@
       <barcode>4065432945738</barcode>
       <sku_size>44</sku_size>
       <sku>mp1921757</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>44990</base_price>
       <discount_price>44990</discount_price>
     </offer>
@@ -7152,7 +7152,7 @@
       <barcode>4065432945813</barcode>
       <sku_size>42.5</sku_size>
       <sku>mp1921760</sku>
-      <quantity>2</quantity>
+      <quantity>0</quantity>
       <base_price>44990</base_price>
       <discount_price>44990</discount_price>
     </offer>
@@ -7161,7 +7161,7 @@
       <barcode>4065432942034</barcode>
       <sku_size>42</sku_size>
       <sku>mp1921761</sku>
-      <quantity>3</quantity>
+      <quantity>0</quantity>
       <base_price>44990</base_price>
       <discount_price>44990</discount_price>
     </offer>
@@ -7170,7 +7170,7 @@
       <barcode>4065432942027</barcode>
       <sku_size>41</sku_size>
       <sku>mp1921762</sku>
-      <quantity>2</quantity>
+      <quantity>0</quantity>
       <base_price>44990</base_price>
       <discount_price>44990</discount_price>
     </offer>
@@ -7179,7 +7179,7 @@
       <barcode>4065432945790</barcode>
       <sku_size>40</sku_size>
       <sku>mp1921763</sku>
-      <quantity>2</quantity>
+      <quantity>0</quantity>
       <base_price>44990</base_price>
       <discount_price>44990</discount_price>
     </offer>
@@ -7314,7 +7314,7 @@
       <barcode>4066748671786</barcode>
       <sku_size>38.5</sku_size>
       <sku>mp1921778</sku>
-      <quantity>5</quantity>
+      <quantity>0</quantity>
       <base_price>34990</base_price>
       <discount_price>34990</discount_price>
     </offer>
@@ -7323,7 +7323,7 @@
       <barcode>4066748671762</barcode>
       <sku_size>39</sku_size>
       <sku>mp1921779</sku>
-      <quantity>3</quantity>
+      <quantity>0</quantity>
       <base_price>34990</base_price>
       <discount_price>34990</discount_price>
     </offer>
@@ -7332,7 +7332,7 @@
       <barcode>4066748671700</barcode>
       <sku_size>40</sku_size>
       <sku>mp1921780</sku>
-      <quantity>3</quantity>
+      <quantity>0</quantity>
       <base_price>34990</base_price>
       <discount_price>34990</discount_price>
     </offer>
@@ -7458,7 +7458,7 @@
       <barcode>4065431335806</barcode>
       <sku_size>M</sku_size>
       <sku>mp1921834</sku>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
       <base_price>69990</base_price>
       <discount_price>39990</discount_price>
     </offer>
@@ -7638,7 +7638,7 @@
       <barcode>4065431358843</barcode>
       <sku_size>L</sku_size>
       <sku>mp1921854</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>89990</base_price>
       <discount_price>59990</discount_price>
     </offer>
@@ -7836,7 +7836,7 @@
       <barcode>4066763311902</barcode>
       <sku_size>XS</sku_size>
       <sku>mp1921878</sku>
-      <quantity>3</quantity>
+      <quantity>1</quantity>
       <base_price>39990</base_price>
       <discount_price>20490</discount_price>
     </offer>
@@ -7980,7 +7980,7 @@
       <barcode>4064055222653</barcode>
       <sku_size>ONESIZE</sku_size>
       <sku>mp1922228</sku>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <base_price>12990</base_price>
       <discount_price>8490</discount_price>
     </offer>
@@ -8043,7 +8043,7 @@
       <barcode>4064055162720</barcode>
       <sku_size>S</sku_size>
       <sku>mp1928316</sku>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <base_price>29990</base_price>
       <discount_price>19990</discount_price>
     </offer>
@@ -8097,7 +8097,7 @@
       <barcode>4066751261257</barcode>
       <sku_size>XL</sku_size>
       <sku>mp1928322</sku>
-      <quantity>0</quantity>
+      <quantity>-1</quantity>
       <base_price>29990</base_price>
       <discount_price>9990</discount_price>
     </offer>
@@ -8169,7 +8169,7 @@
       <barcode>4066763541408</barcode>
       <sku_size>M</sku_size>
       <sku>mp1928330</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>27990</base_price>
       <discount_price>19990</discount_price>
     </offer>
@@ -8187,7 +8187,7 @@
       <barcode>4066763545062</barcode>
       <sku_size>XL</sku_size>
       <sku>mp1928332</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>27990</base_price>
       <discount_price>19990</discount_price>
     </offer>
@@ -8223,7 +8223,7 @@
       <barcode>4066763429096</barcode>
       <sku_size>L</sku_size>
       <sku>mp1928336</sku>
-      <quantity>7</quantity>
+      <quantity>6</quantity>
       <base_price>24990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -8286,7 +8286,7 @@
       <barcode>4066763401795</barcode>
       <sku_size>L</sku_size>
       <sku>mp1928343</sku>
-      <quantity>4</quantity>
+      <quantity>2</quantity>
       <base_price>32990</base_price>
       <discount_price>19990</discount_price>
     </offer>
@@ -8304,7 +8304,7 @@
       <barcode>4066763396640</barcode>
       <sku_size>S</sku_size>
       <sku>mp1928345</sku>
-      <quantity>4</quantity>
+      <quantity>2</quantity>
       <base_price>32990</base_price>
       <discount_price>19990</discount_price>
     </offer>
@@ -8313,7 +8313,7 @@
       <barcode>4066763401757</barcode>
       <sku_size>XS</sku_size>
       <sku>mp1928346</sku>
-      <quantity>6</quantity>
+      <quantity>5</quantity>
       <base_price>32990</base_price>
       <discount_price>19990</discount_price>
     </offer>
@@ -8403,7 +8403,7 @@
       <barcode>4066763483272</barcode>
       <sku_size>S</sku_size>
       <sku>mp1928359</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>29990</base_price>
       <discount_price>19990</discount_price>
     </offer>
@@ -8430,7 +8430,7 @@
       <barcode>4066763478261</barcode>
       <sku_size>XS</sku_size>
       <sku>mp1928363</sku>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <base_price>29990</base_price>
       <discount_price>9990</discount_price>
     </offer>
@@ -8439,7 +8439,7 @@
       <barcode>4066763478155</barcode>
       <sku_size>S</sku_size>
       <sku>mp1928364</sku>
-      <quantity>6</quantity>
+      <quantity>1</quantity>
       <base_price>29990</base_price>
       <discount_price>9990</discount_price>
     </offer>
@@ -8448,7 +8448,7 @@
       <barcode>4066763478216</barcode>
       <sku_size>M</sku_size>
       <sku>mp1928365</sku>
-      <quantity>3</quantity>
+      <quantity>0</quantity>
       <base_price>29990</base_price>
       <discount_price>9990</discount_price>
     </offer>
@@ -8457,7 +8457,7 @@
       <barcode>4066763478209</barcode>
       <sku_size>L</sku_size>
       <sku>mp1928366</sku>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <base_price>29990</base_price>
       <discount_price>9990</discount_price>
     </offer>
@@ -8511,7 +8511,7 @@
       <barcode>1200143319901</barcode>
       <sku_size>M</sku_size>
       <sku>mp1928372</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>29990</base_price>
       <discount_price>19990</discount_price>
     </offer>
@@ -8763,7 +8763,7 @@
       <barcode>1200143175705</barcode>
       <sku_size>39</sku_size>
       <sku>mp1932385</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>80990</base_price>
       <discount_price>34990</discount_price>
     </offer>
@@ -8871,7 +8871,7 @@
       <barcode>4064037975713</barcode>
       <sku_size>43</sku_size>
       <sku>mp1932412</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>81990</base_price>
       <discount_price>59990</discount_price>
     </offer>
@@ -8880,7 +8880,7 @@
       <barcode>4064037972040</barcode>
       <sku_size>44</sku_size>
       <sku>mp1932413</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>81990</base_price>
       <discount_price>59990</discount_price>
     </offer>
@@ -8907,7 +8907,7 @@
       <barcode>4064037975737</barcode>
       <sku_size>42</sku_size>
       <sku>mp1932416</sku>
-      <quantity>3</quantity>
+      <quantity>0</quantity>
       <base_price>81990</base_price>
       <discount_price>59990</discount_price>
     </offer>
@@ -8952,7 +8952,7 @@
       <barcode>4065431281806</barcode>
       <sku_size>S</sku_size>
       <sku>mp1939664</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>29990</base_price>
       <discount_price>8990</discount_price>
     </offer>
@@ -9141,7 +9141,7 @@
       <barcode>4062051722405</barcode>
       <sku_size>XL</sku_size>
       <sku>mp1939685</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>24990</base_price>
       <discount_price>19990</discount_price>
     </offer>
@@ -9402,7 +9402,7 @@
       <barcode>4066746408575</barcode>
       <sku_size>XS</sku_size>
       <sku>mp1939716</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>29990</base_price>
       <discount_price>8990</discount_price>
     </offer>
@@ -9411,7 +9411,7 @@
       <barcode>4066746408674</barcode>
       <sku_size>S</sku_size>
       <sku>mp1939717</sku>
-      <quantity>3</quantity>
+      <quantity>0</quantity>
       <base_price>29990</base_price>
       <discount_price>8990</discount_price>
     </offer>
@@ -9438,7 +9438,7 @@
       <barcode>4066752621319</barcode>
       <sku_size>L</sku_size>
       <sku>mp1939720</sku>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <base_price>29990</base_price>
       <discount_price>8990</discount_price>
     </offer>
@@ -10239,7 +10239,7 @@
       <barcode>1200143825761</barcode>
       <sku_size>M</sku_size>
       <sku>mp1955244</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>29990</base_price>
       <discount_price>19990</discount_price>
     </offer>
@@ -10266,7 +10266,7 @@
       <barcode>1200143823514</barcode>
       <sku_size>L</sku_size>
       <sku>mp1955247</sku>
-      <quantity>3</quantity>
+      <quantity>1</quantity>
       <base_price>39990</base_price>
       <discount_price>29990</discount_price>
     </offer>
@@ -10275,7 +10275,7 @@
       <barcode>1200143823507</barcode>
       <sku_size>M</sku_size>
       <sku>mp1955248</sku>
-      <quantity>2</quantity>
+      <quantity>0</quantity>
       <base_price>39990</base_price>
       <discount_price>29990</discount_price>
     </offer>
@@ -10356,7 +10356,7 @@
       <barcode>1200143824320</barcode>
       <sku_size>M</sku_size>
       <sku>mp1955257</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>24990</base_price>
       <discount_price>19990</discount_price>
     </offer>
@@ -10617,7 +10617,7 @@
       <barcode>1200143873557</barcode>
       <sku_size>XXS</sku_size>
       <sku>mp1955286</sku>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <base_price>32990</base_price>
       <discount_price>14990</discount_price>
     </offer>
@@ -10635,7 +10635,7 @@
       <barcode>1200143873571</barcode>
       <sku_size>S</sku_size>
       <sku>mp1955288</sku>
-      <quantity>7</quantity>
+      <quantity>4</quantity>
       <base_price>32990</base_price>
       <discount_price>14990</discount_price>
     </offer>
@@ -10644,7 +10644,7 @@
       <barcode>1200143873564</barcode>
       <sku_size>XS</sku_size>
       <sku>mp1955289</sku>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
       <base_price>32990</base_price>
       <discount_price>14990</discount_price>
     </offer>
@@ -10977,7 +10977,7 @@
       <barcode>1200143834275</barcode>
       <sku_size>M</sku_size>
       <sku>mp1955326</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>34990</base_price>
       <discount_price>19990</discount_price>
     </offer>
@@ -11058,7 +11058,7 @@
       <barcode>1200143834756</barcode>
       <sku_size>S</sku_size>
       <sku>mp1955335</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>29990</base_price>
       <discount_price>19990</discount_price>
     </offer>
@@ -11067,7 +11067,7 @@
       <barcode>1200143834787</barcode>
       <sku_size>XL</sku_size>
       <sku>mp1955336</sku>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <base_price>29990</base_price>
       <discount_price>19990</discount_price>
     </offer>
@@ -11112,7 +11112,7 @@
       <barcode>1200143854952</barcode>
       <sku_size>M</sku_size>
       <sku>mp1955341</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>27990</base_price>
       <discount_price>19990</discount_price>
     </offer>
@@ -11121,7 +11121,7 @@
       <barcode>1200143854945</barcode>
       <sku_size>S</sku_size>
       <sku>mp1955342</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>27990</base_price>
       <discount_price>19990</discount_price>
     </offer>
@@ -11130,7 +11130,7 @@
       <barcode>1200143854938</barcode>
       <sku_size>XS</sku_size>
       <sku>mp1955343</sku>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <base_price>27990</base_price>
       <discount_price>19990</discount_price>
     </offer>
@@ -11184,7 +11184,7 @@
       <barcode>1200143855225</barcode>
       <sku_size>S</sku_size>
       <sku>mp1955349</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>29990</base_price>
       <discount_price>19990</discount_price>
     </offer>
@@ -11193,7 +11193,7 @@
       <barcode>1200143855218</barcode>
       <sku_size>XS</sku_size>
       <sku>mp1955350</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>29990</base_price>
       <discount_price>19990</discount_price>
     </offer>
@@ -11436,7 +11436,7 @@
       <barcode>1200143501337</barcode>
       <sku_size>43</sku_size>
       <sku>mp1960843</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>49990</base_price>
       <discount_price>31990</discount_price>
     </offer>
@@ -11445,7 +11445,7 @@
       <barcode>1200143501344</barcode>
       <sku_size>44</sku_size>
       <sku>mp1960844</sku>
-      <quantity>3</quantity>
+      <quantity>0</quantity>
       <base_price>49990</base_price>
       <discount_price>31990</discount_price>
     </offer>
@@ -11472,7 +11472,7 @@
       <barcode>1200143501320</barcode>
       <sku_size>42.5</sku_size>
       <sku>mp1960847</sku>
-      <quantity>2</quantity>
+      <quantity>0</quantity>
       <base_price>49990</base_price>
       <discount_price>31990</discount_price>
     </offer>
@@ -11724,7 +11724,7 @@
       <barcode>1200143700808</barcode>
       <sku_size>43</sku_size>
       <sku>mp1960875</sku>
-      <quantity>2</quantity>
+      <quantity>0</quantity>
       <base_price>62990</base_price>
       <discount_price>49990</discount_price>
     </offer>
@@ -11733,7 +11733,7 @@
       <barcode>1200143700815</barcode>
       <sku_size>44</sku_size>
       <sku>mp1960876</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>62990</base_price>
       <discount_price>49990</discount_price>
     </offer>
@@ -11742,7 +11742,7 @@
       <barcode>1200143700822</barcode>
       <sku_size>44.5</sku_size>
       <sku>mp1960877</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>62990</base_price>
       <discount_price>49990</discount_price>
     </offer>
@@ -11751,7 +11751,7 @@
       <barcode>1200143700839</barcode>
       <sku_size>45</sku_size>
       <sku>mp1960878</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>62990</base_price>
       <discount_price>49990</discount_price>
     </offer>
@@ -11778,7 +11778,7 @@
       <barcode>1200143700785</barcode>
       <sku_size>42</sku_size>
       <sku>mp1960881</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>62990</base_price>
       <discount_price>49990</discount_price>
     </offer>
@@ -11877,7 +11877,7 @@
       <barcode>1200143798959</barcode>
       <sku_size>43</sku_size>
       <sku>mp1960892</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>49990</base_price>
       <discount_price>29990</discount_price>
     </offer>
@@ -11886,7 +11886,7 @@
       <barcode>1200143798966</barcode>
       <sku_size>44</sku_size>
       <sku>mp1960893</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>49990</base_price>
       <discount_price>29990</discount_price>
     </offer>
@@ -11895,7 +11895,7 @@
       <barcode>1200143798980</barcode>
       <sku_size>45</sku_size>
       <sku>mp1960894</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>49990</base_price>
       <discount_price>29990</discount_price>
     </offer>
@@ -12012,7 +12012,7 @@
       <barcode>1200143667231</barcode>
       <sku_size>44</sku_size>
       <sku>mp1960914</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>57990</base_price>
       <discount_price>34990</discount_price>
     </offer>
@@ -12165,7 +12165,7 @@
       <barcode>1200143668788</barcode>
       <sku_size>43</sku_size>
       <sku>mp1960940</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>62990</base_price>
       <discount_price>49990</discount_price>
     </offer>
@@ -12174,7 +12174,7 @@
       <barcode>1200143668801</barcode>
       <sku_size>44.5</sku_size>
       <sku>mp1960941</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>62990</base_price>
       <discount_price>49990</discount_price>
     </offer>
@@ -12201,7 +12201,7 @@
       <barcode>1200143668764</barcode>
       <sku_size>42</sku_size>
       <sku>mp1960944</sku>
-      <quantity>2</quantity>
+      <quantity>0</quantity>
       <base_price>62990</base_price>
       <discount_price>49990</discount_price>
     </offer>
@@ -12282,7 +12282,7 @@
       <barcode>1200143669761</barcode>
       <sku_size>43</sku_size>
       <sku>mp1960953</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>62990</base_price>
       <discount_price>39990</discount_price>
     </offer>
@@ -12444,7 +12444,7 @@
       <barcode>1200143665374</barcode>
       <sku_size>44</sku_size>
       <sku>mp1960971</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>52990</base_price>
       <discount_price>29990</discount_price>
     </offer>
@@ -12453,7 +12453,7 @@
       <barcode>1200143665381</barcode>
       <sku_size>44.5</sku_size>
       <sku>mp1960972</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>52990</base_price>
       <discount_price>29990</discount_price>
     </offer>
@@ -12462,7 +12462,7 @@
       <barcode>1200143665398</barcode>
       <sku_size>45</sku_size>
       <sku>mp1960973</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>52990</base_price>
       <discount_price>29990</discount_price>
     </offer>
@@ -12534,7 +12534,7 @@
       <barcode>1200143798386</barcode>
       <sku_size>38.5</sku_size>
       <sku>mp1960987</sku>
-      <quantity>2</quantity>
+      <quantity>0</quantity>
       <base_price>49990</base_price>
       <discount_price>29990</discount_price>
     </offer>
@@ -12660,7 +12660,7 @@
       <barcode>1200143666340</barcode>
       <sku_size>43</sku_size>
       <sku>mp1961010</sku>
-      <quantity>1</quantity>
+      <quantity>-1</quantity>
       <base_price>57990</base_price>
       <discount_price>34990</discount_price>
     </offer>
@@ -12669,7 +12669,7 @@
       <barcode>1200143666357</barcode>
       <sku_size>44</sku_size>
       <sku>mp1961011</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>57990</base_price>
       <discount_price>34990</discount_price>
     </offer>
@@ -12678,7 +12678,7 @@
       <barcode>1200143666364</barcode>
       <sku_size>44.5</sku_size>
       <sku>mp1961012</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>57990</base_price>
       <discount_price>34990</discount_price>
     </offer>
@@ -12768,7 +12768,7 @@
       <barcode>1200143667941</barcode>
       <sku_size>38.5</sku_size>
       <sku>mp1961037</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>57990</base_price>
       <discount_price>29990</discount_price>
     </offer>
@@ -13029,7 +13029,7 @@
       <barcode>1200143664803</barcode>
       <sku_size>38.5</sku_size>
       <sku>mp1961110</sku>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <base_price>52990</base_price>
       <discount_price>34990</discount_price>
     </offer>
@@ -13056,7 +13056,7 @@
       <barcode>1200143665602</barcode>
       <sku_size>36</sku_size>
       <sku>mp1961123</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>52990</base_price>
       <discount_price>28990</discount_price>
     </offer>
@@ -13137,7 +13137,7 @@
       <barcode>1200143807743</barcode>
       <sku_size>45</sku_size>
       <sku>mp1961153</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>47990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -13209,7 +13209,7 @@
       <barcode>1200143702642</barcode>
       <sku_size>38.5</sku_size>
       <sku>mp1961173</sku>
-      <quantity>2</quantity>
+      <quantity>0</quantity>
       <base_price>49990</base_price>
       <discount_price>34990</discount_price>
     </offer>
@@ -13389,7 +13389,7 @@
       <barcode>1200161014963</barcode>
       <sku_size>40</sku_size>
       <sku>mp1961227</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>37990</base_price>
       <discount_price>37990</discount_price>
     </offer>
@@ -13416,7 +13416,7 @@
       <barcode>1200143715772</barcode>
       <sku_size>45</sku_size>
       <sku>mp1961243</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>42990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -13488,7 +13488,7 @@
       <barcode>1200143715987</barcode>
       <sku_size>37.5</sku_size>
       <sku>mp1962651</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>42990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -13641,7 +13641,7 @@
       <barcode>1200143652657</barcode>
       <sku_size>37.5</sku_size>
       <sku>mp1962668</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>47990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -13740,7 +13740,7 @@
       <barcode>1200143648629</barcode>
       <sku_size>37</sku_size>
       <sku>mp1962679</sku>
-      <quantity>5</quantity>
+      <quantity>0</quantity>
       <base_price>44990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -13749,7 +13749,7 @@
       <barcode>1200143648636</barcode>
       <sku_size>37.5</sku_size>
       <sku>mp1962680</sku>
-      <quantity>5</quantity>
+      <quantity>0</quantity>
       <base_price>44990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -13758,7 +13758,7 @@
       <barcode>1200143648643</barcode>
       <sku_size>38</sku_size>
       <sku>mp1962681</sku>
-      <quantity>4</quantity>
+      <quantity>0</quantity>
       <base_price>44990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -13767,7 +13767,7 @@
       <barcode>1200143648650</barcode>
       <sku_size>38.5</sku_size>
       <sku>mp1962682</sku>
-      <quantity>4</quantity>
+      <quantity>0</quantity>
       <base_price>44990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -13776,7 +13776,7 @@
       <barcode>1200143648667</barcode>
       <sku_size>39</sku_size>
       <sku>mp1962683</sku>
-      <quantity>2</quantity>
+      <quantity>0</quantity>
       <base_price>44990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -13839,7 +13839,7 @@
       <barcode>1200143654422</barcode>
       <sku_size>38.5</sku_size>
       <sku>mp1962697</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>47990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -13875,7 +13875,7 @@
       <barcode>1200143733615</barcode>
       <sku_size>44.5</sku_size>
       <sku>mp1962701</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>34990</base_price>
       <discount_price>19990</discount_price>
     </offer>
@@ -13884,7 +13884,7 @@
       <barcode>1200143733622</barcode>
       <sku_size>45</sku_size>
       <sku>mp1962702</sku>
-      <quantity>2</quantity>
+      <quantity>0</quantity>
       <base_price>34990</base_price>
       <discount_price>19990</discount_price>
     </offer>
@@ -13992,7 +13992,7 @@
       <barcode>1200143732779</barcode>
       <sku_size>44.5</sku_size>
       <sku>mp1962719</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>34990</base_price>
       <discount_price>19990</discount_price>
     </offer>
@@ -14208,7 +14208,7 @@
       <barcode>1200143796825</barcode>
       <sku_size>41</sku_size>
       <sku>mp1962744</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>49990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -14217,7 +14217,7 @@
       <barcode>1200143796832</barcode>
       <sku_size>42</sku_size>
       <sku>mp1962745</sku>
-      <quantity>3</quantity>
+      <quantity>0</quantity>
       <base_price>49990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -14244,7 +14244,7 @@
       <barcode>1200143658000</barcode>
       <sku_size>44.5</sku_size>
       <sku>mp1962748</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>49990</base_price>
       <discount_price>29990</discount_price>
     </offer>
@@ -14253,7 +14253,7 @@
       <barcode>1200143658017</barcode>
       <sku_size>45</sku_size>
       <sku>mp1962749</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>49990</base_price>
       <discount_price>29990</discount_price>
     </offer>
@@ -14451,7 +14451,7 @@
       <barcode>1200143889848</barcode>
       <sku_size>37.5</sku_size>
       <sku>mp1962777</sku>
-      <quantity>4</quantity>
+      <quantity>0</quantity>
       <base_price>42990</base_price>
       <discount_price>29990</discount_price>
     </offer>
@@ -14460,7 +14460,7 @@
       <barcode>1200143889862</barcode>
       <sku_size>38.5</sku_size>
       <sku>mp1962778</sku>
-      <quantity>4</quantity>
+      <quantity>0</quantity>
       <base_price>42990</base_price>
       <discount_price>29990</discount_price>
     </offer>
@@ -14469,7 +14469,7 @@
       <barcode>1200143889886</barcode>
       <sku_size>40</sku_size>
       <sku>mp1962779</sku>
-      <quantity>3</quantity>
+      <quantity>0</quantity>
       <base_price>42990</base_price>
       <discount_price>29990</discount_price>
     </offer>
@@ -14487,7 +14487,7 @@
       <barcode>1200143889701</barcode>
       <sku_size>37</sku_size>
       <sku>mp1962781</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>42990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -14541,7 +14541,7 @@
       <barcode>1200143671429</barcode>
       <sku_size>36</sku_size>
       <sku>mp1962787</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>42990</base_price>
       <discount_price>29990</discount_price>
     </offer>
@@ -14658,7 +14658,7 @@
       <barcode>1200143652138</barcode>
       <sku_size>37.5</sku_size>
       <sku>mp1962800</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>42990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -14685,7 +14685,7 @@
       <barcode>1200143652169</barcode>
       <sku_size>39</sku_size>
       <sku>mp1962803</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>42990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -14694,7 +14694,7 @@
       <barcode>1200143652176</barcode>
       <sku_size>40</sku_size>
       <sku>mp1962804</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>42990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -14703,7 +14703,7 @@
       <barcode>1200143732847</barcode>
       <sku_size>37</sku_size>
       <sku>mp1962805</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>34990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -14712,7 +14712,7 @@
       <barcode>1200143732854</barcode>
       <sku_size>37.5</sku_size>
       <sku>mp1962806</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>34990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -14739,7 +14739,7 @@
       <barcode>1200143732885</barcode>
       <sku_size>39</sku_size>
       <sku>mp1962809</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>34990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -14748,7 +14748,7 @@
       <barcode>1200143732892</barcode>
       <sku_size>40</sku_size>
       <sku>mp1962810</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>34990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -14757,7 +14757,7 @@
       <barcode>1200143651988</barcode>
       <sku_size>36</sku_size>
       <sku>mp1962818</sku>
-      <quantity>4</quantity>
+      <quantity>0</quantity>
       <base_price>42990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -14766,7 +14766,7 @@
       <barcode>1200143651995</barcode>
       <sku_size>37</sku_size>
       <sku>mp1962819</sku>
-      <quantity>3</quantity>
+      <quantity>0</quantity>
       <base_price>42990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -14775,7 +14775,7 @@
       <barcode>1200143652008</barcode>
       <sku_size>37.5</sku_size>
       <sku>mp1962820</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>42990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -14784,7 +14784,7 @@
       <barcode>1200143652022</barcode>
       <sku_size>38.5</sku_size>
       <sku>mp1962821</sku>
-      <quantity>3</quantity>
+      <quantity>0</quantity>
       <base_price>42990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -14793,7 +14793,7 @@
       <barcode>1200143652039</barcode>
       <sku_size>39</sku_size>
       <sku>mp1962822</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>42990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -14838,7 +14838,7 @@
       <barcode>1200143652282</barcode>
       <sku_size>38.5</sku_size>
       <sku>mp1962827</sku>
-      <quantity>0</quantity>
+      <quantity>-1</quantity>
       <base_price>44990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -14856,7 +14856,7 @@
       <barcode>1200143652305</barcode>
       <sku_size>40</sku_size>
       <sku>mp1962829</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>44990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -14901,7 +14901,7 @@
       <barcode>1200143652435</barcode>
       <sku_size>40</sku_size>
       <sku>mp1962839</sku>
-      <quantity>2</quantity>
+      <quantity>0</quantity>
       <base_price>44990</base_price>
       <discount_price>29990</discount_price>
     </offer>
@@ -14919,7 +14919,7 @@
       <barcode>1200143900109</barcode>
       <sku_size>37.5</sku_size>
       <sku>mp1962841</sku>
-      <quantity>2</quantity>
+      <quantity>0</quantity>
       <base_price>42990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -14937,7 +14937,7 @@
       <barcode>1200143659991</barcode>
       <sku_size>40</sku_size>
       <sku>mp1962843</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>42990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -15054,7 +15054,7 @@
       <barcode>1200143639658</barcode>
       <sku_size>44.5</sku_size>
       <sku>mp1962862</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>47990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -15063,7 +15063,7 @@
       <barcode>1200143639665</barcode>
       <sku_size>45</sku_size>
       <sku>mp1962863</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>47990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -15090,7 +15090,7 @@
       <barcode>1200143694107</barcode>
       <sku_size>44</sku_size>
       <sku>mp1962866</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>44990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -15108,7 +15108,7 @@
       <barcode>1200143694121</barcode>
       <sku_size>45</sku_size>
       <sku>mp1962868</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>44990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -15117,7 +15117,7 @@
       <barcode>1200143694077</barcode>
       <sku_size>42</sku_size>
       <sku>mp1962869</sku>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <base_price>44990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -15297,7 +15297,7 @@
       <barcode>1200143693681</barcode>
       <sku_size>37.5</sku_size>
       <sku>mp1962901</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>44990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -15351,7 +15351,7 @@
       <barcode>1200143891735</barcode>
       <sku_size>39</sku_size>
       <sku>mp1962908</sku>
-      <quantity>0</quantity>
+      <quantity>-1</quantity>
       <base_price>44990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -15369,7 +15369,7 @@
       <barcode>1200143815786</barcode>
       <sku_size>36</sku_size>
       <sku>mp1962910</sku>
-      <quantity>3</quantity>
+      <quantity>0</quantity>
       <base_price>44990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -15378,7 +15378,7 @@
       <barcode>1200143815793</barcode>
       <sku_size>37</sku_size>
       <sku>mp1962911</sku>
-      <quantity>3</quantity>
+      <quantity>0</quantity>
       <base_price>44990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -15387,7 +15387,7 @@
       <barcode>1200143815809</barcode>
       <sku_size>37.5</sku_size>
       <sku>mp1962912</sku>
-      <quantity>5</quantity>
+      <quantity>0</quantity>
       <base_price>44990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -15396,7 +15396,7 @@
       <barcode>1200143815816</barcode>
       <sku_size>38</sku_size>
       <sku>mp1962913</sku>
-      <quantity>4</quantity>
+      <quantity>0</quantity>
       <base_price>44990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -15405,7 +15405,7 @@
       <barcode>1200143815823</barcode>
       <sku_size>38.5</sku_size>
       <sku>mp1962914</sku>
-      <quantity>6</quantity>
+      <quantity>1</quantity>
       <base_price>44990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -15423,7 +15423,7 @@
       <barcode>1200143815847</barcode>
       <sku_size>40</sku_size>
       <sku>mp1962916</sku>
-      <quantity>3</quantity>
+      <quantity>0</quantity>
       <base_price>44990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -15432,7 +15432,7 @@
       <barcode>1200143638200</barcode>
       <sku_size>43</sku_size>
       <sku>mp1962922</sku>
-      <quantity>2</quantity>
+      <quantity>0</quantity>
       <base_price>49990</base_price>
       <discount_price>34990</discount_price>
     </offer>
@@ -15441,7 +15441,7 @@
       <barcode>1200143638217</barcode>
       <sku_size>44</sku_size>
       <sku>mp1962923</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>49990</base_price>
       <discount_price>34990</discount_price>
     </offer>
@@ -15459,7 +15459,7 @@
       <barcode>1200143638187</barcode>
       <sku_size>42</sku_size>
       <sku>mp1962925</sku>
-      <quantity>3</quantity>
+      <quantity>0</quantity>
       <base_price>49990</base_price>
       <discount_price>34990</discount_price>
     </offer>
@@ -15882,7 +15882,7 @@
       <barcode>4066746318751</barcode>
       <sku_size>L</sku_size>
       <sku>mp2028341</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>22990</base_price>
       <discount_price>6990</discount_price>
     </offer>
@@ -15909,7 +15909,7 @@
       <barcode>4066746318768</barcode>
       <sku_size>XS</sku_size>
       <sku>mp2028344</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>22990</base_price>
       <discount_price>6990</discount_price>
     </offer>
@@ -15918,7 +15918,7 @@
       <barcode>4066746323083</barcode>
       <sku_size>XXS</sku_size>
       <sku>mp2028386</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>22990</base_price>
       <discount_price>6990</discount_price>
     </offer>
@@ -15927,7 +15927,7 @@
       <barcode>4066761408222</barcode>
       <sku_size>XS</sku_size>
       <sku>mp2028345</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>16990</base_price>
       <discount_price>4990</discount_price>
     </offer>
@@ -15945,7 +15945,7 @@
       <barcode>4066761408277</barcode>
       <sku_size>S</sku_size>
       <sku>mp2028347</sku>
-      <quantity>2</quantity>
+      <quantity>0</quantity>
       <base_price>16990</base_price>
       <discount_price>4990</discount_price>
     </offer>
@@ -15954,7 +15954,7 @@
       <barcode>4066761408192</barcode>
       <sku_size>M</sku_size>
       <sku>mp2028348</sku>
-      <quantity>2</quantity>
+      <quantity>0</quantity>
       <base_price>16990</base_price>
       <discount_price>4990</discount_price>
     </offer>
@@ -15963,7 +15963,7 @@
       <barcode>4066761408246</barcode>
       <sku_size>L</sku_size>
       <sku>mp2028349</sku>
-      <quantity>2</quantity>
+      <quantity>0</quantity>
       <base_price>16990</base_price>
       <discount_price>4990</discount_price>
     </offer>
@@ -15999,7 +15999,7 @@
       <barcode>4066763534189</barcode>
       <sku_size>L</sku_size>
       <sku>mp2028359</sku>
-      <quantity>2</quantity>
+      <quantity>0</quantity>
       <base_price>22990</base_price>
       <discount_price>6990</discount_price>
     </offer>
@@ -16008,7 +16008,7 @@
       <barcode>4066763534226</barcode>
       <sku_size>M</sku_size>
       <sku>mp2028360</sku>
-      <quantity>4</quantity>
+      <quantity>0</quantity>
       <base_price>22990</base_price>
       <discount_price>6990</discount_price>
     </offer>
@@ -16017,7 +16017,7 @@
       <barcode>4066763534196</barcode>
       <sku_size>S</sku_size>
       <sku>mp2028361</sku>
-      <quantity>3</quantity>
+      <quantity>0</quantity>
       <base_price>22990</base_price>
       <discount_price>6990</discount_price>
     </offer>
@@ -16026,7 +16026,7 @@
       <barcode>4066763534202</barcode>
       <sku_size>XS</sku_size>
       <sku>mp2028362</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>22990</base_price>
       <discount_price>6990</discount_price>
     </offer>
@@ -16035,7 +16035,7 @@
       <barcode>4066763120924</barcode>
       <sku_size>XS</sku_size>
       <sku>mp2028363</sku>
-      <quantity>3</quantity>
+      <quantity>0</quantity>
       <base_price>16990</base_price>
       <discount_price>4990</discount_price>
     </offer>
@@ -16044,7 +16044,7 @@
       <barcode>4066763120962</barcode>
       <sku_size>S</sku_size>
       <sku>mp2028364</sku>
-      <quantity>6</quantity>
+      <quantity>0</quantity>
       <base_price>16990</base_price>
       <discount_price>4990</discount_price>
     </offer>
@@ -16053,7 +16053,7 @@
       <barcode>4066763120399</barcode>
       <sku_size>M</sku_size>
       <sku>mp2028365</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>16990</base_price>
       <discount_price>4990</discount_price>
     </offer>
@@ -16062,7 +16062,7 @@
       <barcode>4066763120917</barcode>
       <sku_size>L</sku_size>
       <sku>mp2028366</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>16990</base_price>
       <discount_price>4990</discount_price>
     </offer>
@@ -16242,7 +16242,7 @@
       <barcode>4062051800189</barcode>
       <sku_size>XXL</sku_size>
       <sku>mp2033596</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>27990</base_price>
       <discount_price>14490</discount_price>
     </offer>
@@ -16260,7 +16260,7 @@
       <barcode>4062051800158</barcode>
       <sku_size>S</sku_size>
       <sku>mp2033598</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>27990</base_price>
       <discount_price>14490</discount_price>
     </offer>
@@ -16296,7 +16296,7 @@
       <barcode>4066759866980</barcode>
       <sku_size>XXS</sku_size>
       <sku>mp2033602</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>29990</base_price>
       <discount_price>19990</discount_price>
     </offer>
@@ -16305,7 +16305,7 @@
       <barcode>4066759866959</barcode>
       <sku_size>L</sku_size>
       <sku>mp2033603</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>29990</base_price>
       <discount_price>19990</discount_price>
     </offer>
@@ -16332,7 +16332,7 @@
       <barcode>4066759870666</barcode>
       <sku_size>XL</sku_size>
       <sku>mp2033606</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>29990</base_price>
       <discount_price>19990</discount_price>
     </offer>
@@ -16395,7 +16395,7 @@
       <barcode>4066763401269</barcode>
       <sku_size>M</sku_size>
       <sku>mp2033617</sku>
-      <quantity>0</quantity>
+      <quantity>-1</quantity>
       <base_price>24990</base_price>
       <discount_price>19990</discount_price>
     </offer>
@@ -16413,7 +16413,7 @@
       <barcode>1200143164563</barcode>
       <sku_size>L</sku_size>
       <sku>mp2033619</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>24990</base_price>
       <discount_price>19990</discount_price>
     </offer>
@@ -16431,7 +16431,7 @@
       <barcode>1200143164525</barcode>
       <sku_size>S</sku_size>
       <sku>mp2033621</sku>
-      <quantity>2</quantity>
+      <quantity>3</quantity>
       <base_price>24990</base_price>
       <discount_price>19990</discount_price>
     </offer>
@@ -16467,7 +16467,7 @@
       <barcode>4066764848117</barcode>
       <sku_size>M</sku_size>
       <sku>mp2033625</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>17990</base_price>
       <discount_price>17990</discount_price>
     </offer>
@@ -16683,7 +16683,7 @@
       <barcode>1200143845790</barcode>
       <sku_size>S</sku_size>
       <sku>mp2033649</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>37990</base_price>
       <discount_price>19990</discount_price>
     </offer>
@@ -16773,7 +16773,7 @@
       <barcode>4064037817006</barcode>
       <sku_size>43</sku_size>
       <sku>mp2034345</sku>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
       <base_price>32990</base_price>
       <discount_price>32990</discount_price>
     </offer>
@@ -17088,7 +17088,7 @@
       <barcode>4064037983107</barcode>
       <sku_size>44.5</sku_size>
       <sku>mp2034380</sku>
-      <quantity>2</quantity>
+      <quantity>0</quantity>
       <base_price>39990</base_price>
       <discount_price>19990</discount_price>
     </offer>
@@ -17133,7 +17133,7 @@
       <barcode>4064037979421</barcode>
       <sku_size>41</sku_size>
       <sku>mp2034385</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>39990</base_price>
       <discount_price>19990</discount_price>
     </offer>
@@ -17142,7 +17142,7 @@
       <barcode>4064037979483</barcode>
       <sku_size>42</sku_size>
       <sku>mp2034386</sku>
-      <quantity>4</quantity>
+      <quantity>0</quantity>
       <base_price>39990</base_price>
       <discount_price>19990</discount_price>
     </offer>
@@ -17223,7 +17223,7 @@
       <barcode>4059814253702</barcode>
       <sku_size>42</sku_size>
       <sku>mp2034395</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>34990</base_price>
       <discount_price>34990</discount_price>
     </offer>
@@ -17421,7 +17421,7 @@
       <barcode>4066748768066</barcode>
       <sku_size>40.5</sku_size>
       <sku>mp2034416</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>32990</base_price>
       <discount_price>32990</discount_price>
     </offer>
@@ -17466,7 +17466,7 @@
       <barcode>4066748717941</barcode>
       <sku_size>44.5</sku_size>
       <sku>mp2034421</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>34990</base_price>
       <discount_price>34990</discount_price>
     </offer>
@@ -17475,7 +17475,7 @@
       <barcode>4066748717842</barcode>
       <sku_size>44</sku_size>
       <sku>mp2034422</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>34990</base_price>
       <discount_price>34990</discount_price>
     </offer>
@@ -17484,7 +17484,7 @@
       <barcode>4066748721573</barcode>
       <sku_size>43</sku_size>
       <sku>mp2034423</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>34990</base_price>
       <discount_price>34990</discount_price>
     </offer>
@@ -17934,7 +17934,7 @@
       <barcode>1200143234365</barcode>
       <sku_size>38</sku_size>
       <sku>mp2034474</sku>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <base_price>64990</base_price>
       <discount_price>39990</discount_price>
     </offer>
@@ -17952,7 +17952,7 @@
       <barcode>1200143234402</barcode>
       <sku_size>39</sku_size>
       <sku>mp2034476</sku>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <base_price>64990</base_price>
       <discount_price>39990</discount_price>
     </offer>
@@ -18096,7 +18096,7 @@
       <barcode>1200143210352</barcode>
       <sku_size>35</sku_size>
       <sku>mp2034492</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>71990</base_price>
       <discount_price>71990</discount_price>
     </offer>
@@ -18105,7 +18105,7 @@
       <barcode>1200143210376</barcode>
       <sku_size>36.5</sku_size>
       <sku>mp2034493</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>71990</base_price>
       <discount_price>71990</discount_price>
     </offer>
@@ -18114,7 +18114,7 @@
       <barcode>1200143210390</barcode>
       <sku_size>37.5</sku_size>
       <sku>mp2034494</sku>
-      <quantity>2</quantity>
+      <quantity>0</quantity>
       <base_price>71990</base_price>
       <discount_price>71990</discount_price>
     </offer>
@@ -18132,7 +18132,7 @@
       <barcode>1200143210437</barcode>
       <sku_size>6.5</sku_size>
       <sku>mp2034496</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>71990</base_price>
       <discount_price>71990</discount_price>
     </offer>
@@ -18141,7 +18141,7 @@
       <barcode>1200143210536</barcode>
       <sku_size>42</sku_size>
       <sku>mp2034497</sku>
-      <quantity>0</quantity>
+      <quantity>-1</quantity>
       <base_price>71990</base_price>
       <discount_price>71990</discount_price>
     </offer>
@@ -18213,7 +18213,7 @@
       <barcode>1200143039038</barcode>
       <sku_size>37.5</sku_size>
       <sku>mp2034505</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>27990</base_price>
       <discount_price>27990</discount_price>
     </offer>
@@ -18231,7 +18231,7 @@
       <barcode>1200143039090</barcode>
       <sku_size>38.5</sku_size>
       <sku>mp2034507</sku>
-      <quantity>2</quantity>
+      <quantity>0</quantity>
       <base_price>27990</base_price>
       <discount_price>27990</discount_price>
     </offer>
@@ -18249,7 +18249,7 @@
       <barcode>1200143039151</barcode>
       <sku_size>40</sku_size>
       <sku>mp2034509</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>27990</base_price>
       <discount_price>27990</discount_price>
     </offer>
@@ -18483,7 +18483,7 @@
       <barcode>1200143052952</barcode>
       <sku_size>43</sku_size>
       <sku>mp2034535</sku>
-      <quantity>2</quantity>
+      <quantity>0</quantity>
       <base_price>52990</base_price>
       <discount_price>29990</discount_price>
     </offer>
@@ -18789,7 +18789,7 @@
       <barcode>1200143717882</barcode>
       <sku_size>43</sku_size>
       <sku>mp2034569</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>39990</base_price>
       <discount_price>29990</discount_price>
     </offer>
@@ -19095,7 +19095,7 @@
       <barcode>1200143729694</barcode>
       <sku_size>38.5</sku_size>
       <sku>mp2034603</sku>
-      <quantity>0</quantity>
+      <quantity>-1</quantity>
       <base_price>47990</base_price>
       <discount_price>29990</discount_price>
     </offer>
@@ -19158,7 +19158,7 @@
       <barcode>1200143648742</barcode>
       <sku_size>36</sku_size>
       <sku>mp2034610</sku>
-      <quantity>5</quantity>
+      <quantity>2</quantity>
       <base_price>44990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -19167,7 +19167,7 @@
       <barcode>1200143648759</barcode>
       <sku_size>37</sku_size>
       <sku>mp2034611</sku>
-      <quantity>4</quantity>
+      <quantity>0</quantity>
       <base_price>44990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -19176,7 +19176,7 @@
       <barcode>1200143648766</barcode>
       <sku_size>37.5</sku_size>
       <sku>mp2034612</sku>
-      <quantity>4</quantity>
+      <quantity>1</quantity>
       <base_price>44990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -19185,7 +19185,7 @@
       <barcode>1200143648803</barcode>
       <sku_size>40</sku_size>
       <sku>mp2034613</sku>
-      <quantity>2</quantity>
+      <quantity>0</quantity>
       <base_price>44990</base_price>
       <discount_price>24990</discount_price>
     </offer>
@@ -19599,7 +19599,7 @@
       <barcode>1200143723517</barcode>
       <sku_size>37</sku_size>
       <sku>mp2034659</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>47990</base_price>
       <discount_price>34990</discount_price>
     </offer>
@@ -19608,7 +19608,7 @@
       <barcode>1200143723524</barcode>
       <sku_size>37.5</sku_size>
       <sku>mp2034660</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>47990</base_price>
       <discount_price>34990</discount_price>
     </offer>
@@ -19617,7 +19617,7 @@
       <barcode>1200143723531</barcode>
       <sku_size>38</sku_size>
       <sku>mp2034661</sku>
-      <quantity>0</quantity>
+      <quantity>-1</quantity>
       <base_price>47990</base_price>
       <discount_price>34990</discount_price>
     </offer>
@@ -19626,7 +19626,7 @@
       <barcode>1200143723548</barcode>
       <sku_size>38.5</sku_size>
       <sku>mp2034662</sku>
-      <quantity>2</quantity>
+      <quantity>0</quantity>
       <base_price>47990</base_price>
       <discount_price>34990</discount_price>
     </offer>
@@ -19635,7 +19635,7 @@
       <barcode>1200143723555</barcode>
       <sku_size>39</sku_size>
       <sku>mp2034663</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>47990</base_price>
       <discount_price>34990</discount_price>
     </offer>
@@ -19644,7 +19644,7 @@
       <barcode>1200143723562</barcode>
       <sku_size>40</sku_size>
       <sku>mp2034664</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>47990</base_price>
       <discount_price>34990</discount_price>
     </offer>
@@ -19977,7 +19977,7 @@
       <barcode>4060516174196</barcode>
       <sku_size>40</sku_size>
       <sku>mp2135047</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>20590</base_price>
       <discount_price>11990</discount_price>
     </offer>
@@ -20508,7 +20508,7 @@
       <barcode>4066749434922</barcode>
       <sku_size>42.5</sku_size>
       <sku>mp2135106</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>57590</base_price>
       <discount_price>19990</discount_price>
     </offer>
@@ -20598,7 +20598,7 @@
       <barcode>4066748710201</barcode>
       <sku_size>41</sku_size>
       <sku>mp2135115</sku>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <base_price>34990</base_price>
       <discount_price>34990</discount_price>
     </offer>
@@ -20652,7 +20652,7 @@
       <barcode>4066748825486</barcode>
       <sku_size>43</sku_size>
       <sku>mp2135121</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>34990</base_price>
       <discount_price>34990</discount_price>
     </offer>
@@ -20670,7 +20670,7 @@
       <barcode>4066748825509</barcode>
       <sku_size>45</sku_size>
       <sku>mp2135123</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>34990</base_price>
       <discount_price>34990</discount_price>
     </offer>
@@ -20706,7 +20706,7 @@
       <barcode>4066748821860</barcode>
       <sku_size>42.5</sku_size>
       <sku>mp2135127</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>34990</base_price>
       <discount_price>34990</discount_price>
     </offer>
@@ -20814,7 +20814,7 @@
       <barcode>4066756674298</barcode>
       <sku_size>42</sku_size>
       <sku>mp2135139</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>84990</base_price>
       <discount_price>29990</discount_price>
     </offer>
@@ -21255,7 +21255,7 @@
       <barcode>1200143257531</barcode>
       <sku_size>41</sku_size>
       <sku>mp2135188</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>29990</base_price>
       <discount_price>29990</discount_price>
     </offer>
@@ -21264,7 +21264,7 @@
       <barcode>1200143257517</barcode>
       <sku_size>40</sku_size>
       <sku>mp2135189</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>29990</base_price>
       <discount_price>29990</discount_price>
     </offer>
@@ -21615,7 +21615,7 @@
       <barcode>1200143941270</barcode>
       <sku_size>43</sku_size>
       <sku>mp2135227</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>51990</base_price>
       <discount_price>39990</discount_price>
     </offer>
@@ -21624,7 +21624,7 @@
       <barcode>1200143941287</barcode>
       <sku_size>44</sku_size>
       <sku>mp2135228</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>51990</base_price>
       <discount_price>39990</discount_price>
     </offer>
@@ -21687,7 +21687,7 @@
       <barcode>1200143941065</barcode>
       <sku_size>42</sku_size>
       <sku>mp2135235</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>51990</base_price>
       <discount_price>39990</discount_price>
     </offer>
@@ -21705,7 +21705,7 @@
       <barcode>1200143812150</barcode>
       <sku_size>43</sku_size>
       <sku>mp2135237</sku>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <base_price>32990</base_price>
       <discount_price>32990</discount_price>
     </offer>
@@ -21723,7 +21723,7 @@
       <barcode>1200143812181</barcode>
       <sku_size>45</sku_size>
       <sku>mp2135239</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>32990</base_price>
       <discount_price>32990</discount_price>
     </offer>
@@ -21750,7 +21750,7 @@
       <barcode>1200143812136</barcode>
       <sku_size>42</sku_size>
       <sku>mp2135242</sku>
-      <quantity>1</quantity>
+      <quantity>2</quantity>
       <base_price>32990</base_price>
       <discount_price>32990</discount_price>
     </offer>
@@ -21759,7 +21759,7 @@
       <barcode>1200143812143</barcode>
       <sku_size>42.5</sku_size>
       <sku>mp2135243</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>32990</base_price>
       <discount_price>32990</discount_price>
     </offer>
@@ -21858,7 +21858,7 @@
       <barcode>1200143651766</barcode>
       <sku_size>38.5</sku_size>
       <sku>mp2135254</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>44990</base_price>
       <discount_price>44990</discount_price>
     </offer>
@@ -21867,7 +21867,7 @@
       <barcode>1200143651780</barcode>
       <sku_size>40</sku_size>
       <sku>mp2135255</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>44990</base_price>
       <discount_price>44990</discount_price>
     </offer>
@@ -21912,7 +21912,7 @@
       <barcode>1200143653456</barcode>
       <sku_size>38.5</sku_size>
       <sku>mp2135260</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>42990</base_price>
       <discount_price>22990</discount_price>
     </offer>
@@ -22596,7 +22596,7 @@
       <barcode>1200161229251</barcode>
       <sku_size>39</sku_size>
       <sku>mp2135336</sku>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
       <base_price>64990</base_price>
       <discount_price>64990</discount_price>
     </offer>
@@ -22659,7 +22659,7 @@
       <barcode>4065432297004</barcode>
       <sku_size>M</sku_size>
       <sku>mp2145888</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>16990</base_price>
       <discount_price>14990</discount_price>
     </offer>
@@ -22668,7 +22668,7 @@
       <barcode>4065432296984</barcode>
       <sku_size>S</sku_size>
       <sku>mp2145889</sku>
-      <quantity>3</quantity>
+      <quantity>0</quantity>
       <base_price>16990</base_price>
       <discount_price>14990</discount_price>
     </offer>
@@ -22677,7 +22677,7 @@
       <barcode>4065432294195</barcode>
       <sku_size>XS</sku_size>
       <sku>mp2145890</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>16990</base_price>
       <discount_price>14990</discount_price>
     </offer>
@@ -22686,7 +22686,7 @@
       <barcode>4065432294225</barcode>
       <sku_size>XXL</sku_size>
       <sku>mp2145891</sku>
-      <quantity>2</quantity>
+      <quantity>0</quantity>
       <base_price>16990</base_price>
       <discount_price>14990</discount_price>
     </offer>
@@ -22758,7 +22758,7 @@
       <barcode>4065425542661</barcode>
       <sku_size>L</sku_size>
       <sku>mp2145899</sku>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
       <base_price>8990</base_price>
       <discount_price>8990</discount_price>
     </offer>
@@ -22803,7 +22803,7 @@
       <barcode>4062051840444</barcode>
       <sku_size>XL</sku_size>
       <sku>mp2145911</sku>
-      <quantity>2</quantity>
+      <quantity>0</quantity>
       <base_price>14990</base_price>
       <discount_price>12990</discount_price>
     </offer>
@@ -22812,7 +22812,7 @@
       <barcode>4065431467293</barcode>
       <sku_size>XL</sku_size>
       <sku>mp2145912</sku>
-      <quantity>7</quantity>
+      <quantity>1</quantity>
       <base_price>22990</base_price>
       <discount_price>19990</discount_price>
     </offer>
@@ -22821,7 +22821,7 @@
       <barcode>4065431467217</barcode>
       <sku_size>L</sku_size>
       <sku>mp2145913</sku>
-      <quantity>7</quantity>
+      <quantity>1</quantity>
       <base_price>22990</base_price>
       <discount_price>19990</discount_price>
     </offer>
@@ -22830,7 +22830,7 @@
       <barcode>4065431467279</barcode>
       <sku_size>M</sku_size>
       <sku>mp2145914</sku>
-      <quantity>2</quantity>
+      <quantity>0</quantity>
       <base_price>22990</base_price>
       <discount_price>19990</discount_price>
     </offer>
@@ -23091,7 +23091,7 @@
       <barcode>1200143327999</barcode>
       <sku_size>L</sku_size>
       <sku>mp2145947</sku>
-      <quantity>2</quantity>
+      <quantity>0</quantity>
       <base_price>14990</base_price>
       <discount_price>12990</discount_price>
     </offer>
@@ -23100,7 +23100,7 @@
       <barcode>1200143327982</barcode>
       <sku_size>M</sku_size>
       <sku>mp2145948</sku>
-      <quantity>2</quantity>
+      <quantity>0</quantity>
       <base_price>14990</base_price>
       <discount_price>12990</discount_price>
     </offer>
@@ -23109,7 +23109,7 @@
       <barcode>1200143327975</barcode>
       <sku_size>S</sku_size>
       <sku>mp2145949</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>14990</base_price>
       <discount_price>12990</discount_price>
     </offer>
@@ -23118,7 +23118,7 @@
       <barcode>1200143327968</barcode>
       <sku_size>XS</sku_size>
       <sku>mp2145950</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>14990</base_price>
       <discount_price>12990</discount_price>
     </offer>
@@ -23388,7 +23388,7 @@
       <barcode>1200143824870</barcode>
       <sku_size>XS</sku_size>
       <sku>mp2145983</sku>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <base_price>17990</base_price>
       <discount_price>14990</discount_price>
     </offer>
@@ -23469,7 +23469,7 @@
       <barcode>1200143845080</barcode>
       <sku_size>L</sku_size>
       <sku>mp2145992</sku>
-      <quantity>2</quantity>
+      <quantity>0</quantity>
       <base_price>18990</base_price>
       <discount_price>14990</discount_price>
     </offer>
@@ -23478,7 +23478,7 @@
       <barcode>1200143845073</barcode>
       <sku_size>M</sku_size>
       <sku>mp2145993</sku>
-      <quantity>4</quantity>
+      <quantity>1</quantity>
       <base_price>18990</base_price>
       <discount_price>14990</discount_price>
     </offer>
@@ -23487,7 +23487,7 @@
       <barcode>1200143845066</barcode>
       <sku_size>S</sku_size>
       <sku>mp2145994</sku>
-      <quantity>4</quantity>
+      <quantity>0</quantity>
       <base_price>18990</base_price>
       <discount_price>14990</discount_price>
     </offer>
@@ -23496,7 +23496,7 @@
       <barcode>1200143845059</barcode>
       <sku_size>XS</sku_size>
       <sku>mp2145995</sku>
-      <quantity>3</quantity>
+      <quantity>1</quantity>
       <base_price>18990</base_price>
       <discount_price>14990</discount_price>
     </offer>
@@ -23820,7 +23820,7 @@
       <barcode>1200143833810</barcode>
       <sku_size>XXL</sku_size>
       <sku>mp2146031</sku>
-      <quantity>0</quantity>
+      <quantity>1</quantity>
       <base_price>19990</base_price>
       <discount_price>19990</discount_price>
     </offer>
@@ -23964,7 +23964,7 @@
       <barcode>1200161290701</barcode>
       <sku_size>L</sku_size>
       <sku>mp2146047</sku>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <base_price>12990</base_price>
       <discount_price>12990</discount_price>
     </offer>
@@ -23973,7 +23973,7 @@
       <barcode>1200161290695</barcode>
       <sku_size>M</sku_size>
       <sku>mp2146048</sku>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
       <base_price>12990</base_price>
       <discount_price>12990</discount_price>
     </offer>
@@ -24036,7 +24036,7 @@
       <barcode>1200161458149</barcode>
       <sku_size>XS</sku_size>
       <sku>mp2146055</sku>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <base_price>12990</base_price>
       <discount_price>12990</discount_price>
     </offer>
@@ -24135,7 +24135,7 @@
       <barcode>1200161288036</barcode>
       <sku_size>XXL</sku_size>
       <sku>mp2146066</sku>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <base_price>12990</base_price>
       <discount_price>12990</discount_price>
     </offer>
@@ -24171,7 +24171,7 @@
       <barcode>1200161288029</barcode>
       <sku_size>XL</sku_size>
       <sku>mp2146070</sku>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <base_price>12990</base_price>
       <discount_price>12990</discount_price>
     </offer>
@@ -24180,7 +24180,7 @@
       <barcode>1200161457937</barcode>
       <sku_size>XXL</sku_size>
       <sku>mp2146071</sku>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <base_price>12990</base_price>
       <discount_price>12990</discount_price>
     </offer>
@@ -24207,7 +24207,7 @@
       <barcode>1200161457890</barcode>
       <sku_size>S</sku_size>
       <sku>mp2146074</sku>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <base_price>12990</base_price>
       <discount_price>12990</discount_price>
     </offer>
